@@ -23,6 +23,9 @@
 <h4>Sky</h4>
 <p>The sky is drawn using an accumulator algorithm with hand-picked colours to match a morning scene, and the sun is plopped on right onto it.</p>
 <br>
+<h2>Screenshot of the Drawing</h2>
+<img src="sabrinamason_project1_screenshot.png" alt="Static image of the sun rising over 6 maple trees with fall coloured leaves." title= "Sunrise Over a Maple Grove" height=300>
+<br>
 <h2>Running the Program</h2>
 <p><ol>
   <li>Clone/download this repository.</li>
@@ -30,4 +33,6 @@
   <li>Run the program <strong>sabrinamason_project1.py</strong></li>  
   <li>A window will open and the program will paint the fall sun rising over a maple grove.</li>
   <li>Click on the window to close it.</li>
-</ol></p>
+</ol>
+I would recommend not adjusting the window size of the drawing without further tweaking actual code as it is not written to adjust to new window sizes.
+Happy drawing :)</p>
