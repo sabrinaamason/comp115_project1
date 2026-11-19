@@ -215,7 +215,6 @@ tree.pensize(7)
 tree.down()
 draw_tree(tree,tree2_instruction,30)
 tree.shape('blank')
-
 '''Tree 6 leaf coverage'''
 leaf_confetti(leaf,'leafish_xl',7,-120,-400,-200,-315,50,-150,-45,-100)
 
